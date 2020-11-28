@@ -1,7 +1,7 @@
 # CS124-ML_in_Genetics
 
 CS124 Haplotype Phasing Project
-Michael Cheng and Anweshan Das
+By Michael Cheng and Anweshan Das
 
 A haplotype phasing prediction algorithm given a genotype dataset of individuals (missing data or not) and returning a predicted haplotype phase pair for each genotype.
 
